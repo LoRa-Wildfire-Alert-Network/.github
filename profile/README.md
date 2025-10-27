@@ -58,7 +58,7 @@ System Enhancements
 ## Key Repositories
 
 - [**LoRaWAN-Wildfire**](https://github.com/LoRa-Wildfire-Alert-Network/LoRaWAN-Wildfire) — Chirpstack server, device and gateway configuration
-- [**lorawan-node-simulator**](https://github.com/LoRa-Wildfire-Alert-Network/Dashboard) — Web Dashboard and database to visualize node data and device metrics
+- [**Dashboard**](https://github.com/LoRa-Wildfire-Alert-Network/Dashboard) — Web Dashboard and database to visualize node data and device metrics
 
 ---
 
